@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791332966723",
+    "project_id": "elver-app-db9f8",
+    "storage_bucket": "elver-app-db9f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791332966723:android:acd0fbfccd5168607a1ff6",
+        "android_client_info": {
+          "package_name": "com.example.elver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdCS4TOLV9o5vYMixGkQV7L_m9iEyxgSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
